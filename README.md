@@ -8,7 +8,7 @@ Database Setup and Configuration<br>
 
 <b>Description:</b><br>
 <ul> 
-<li>	Create a simple database using a popular database management system (e.g., MySQL, PostgreSQL). </li>
+<li>	Create a simple database using a popular database management system. </li>
 <li>	Perform basic configuration settings, including setting up a user, defining tables, and establishing basic relationships. </li></ul>
 <br>
 
