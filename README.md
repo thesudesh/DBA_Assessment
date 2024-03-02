@@ -1,6 +1,4 @@
-<h1>    Project - DBA Traineeship Program Selection Phase </h1>
-
-<b> RDBMS Used: MYSQL <br>
+<b> Done using MySQL <br>
 </b>
 
 <h2> Task Description </h2>
